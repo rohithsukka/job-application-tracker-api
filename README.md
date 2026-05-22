@@ -58,7 +58,7 @@ Default status is `applied`.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-public-github-repository-url>
+git clone https://github.com/rohithsukka/job-application-tracker-api
 cd job-application-tracker
 ```
 
