@@ -59,7 +59,7 @@ Default status is `applied`.
 
 ```bash
 git clone https://github.com/rohithsukka/job-application-tracker-api
-cd job-application-tracker
+cd job-application-tracker-api
 ```
 
 ### 2. Create a virtual environment
